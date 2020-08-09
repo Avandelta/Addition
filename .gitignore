@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Other
+*.7z
+*.zip
+*.log
+*.gz
+*.log.gz
+
+.vs/
+.vscode/
+dist/
+build/
