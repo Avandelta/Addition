@@ -1,6 +1,6 @@
 # Interpretatio
 
-![Перевод](https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-0%25-red?style=for-the-badge)
+![Перевод](https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-10%25-red?style=for-the-badge)
 ![ZenScript](https://img.shields.io/github/languages/top/Avandelta/Interpretatio?label=ZenScript&style=for-the-badge)
 
 ## Предисловие
