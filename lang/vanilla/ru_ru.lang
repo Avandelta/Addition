@@ -10,7 +10,7 @@ gui.no=Нет
 gui.none=Ничего
 gui.all=Всё
 
-gui.recipebook.moreRecipes=Нажмите ПКП, чтобы увидеть больше рецептов
+gui.recipebook.moreRecipes=Нажмите ПКМ, чтобы увидеть больше рецептов
 gui.recipebook.toggleRecipes.all=Показывать всё
 gui.recipebook.toggleRecipes.craftable=Показывать возможные
 

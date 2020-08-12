@@ -205,7 +205,7 @@ forge.controlsgui.alt=ALT + %s
 fml.menu.mods=Моды
 fml.menu.mods.normal=Обычная
 fml.menu.mods.search=Поиск:
-fml.menu.modoptions=Настройки модов...
+fml.menu.modoptions=Настройки модов.
 
 item.forge.bucketFilled.name=Ведро %s
 
@@ -247,7 +247,7 @@ attribute.name.forge.swimSpeed=Скорость плавания
 
 fml.menu.mods=Моды
 fml.menu.mods.title=Моды
-fml.menu.mods.normal=ВЫКЛ.
+fml.menu.mods.normal=Выкл.
 fml.menu.mods.search=Поиск
 fml.menu.mods.a_to_z=А-Я
 fml.menu.mods.z_to_a=Я-А
@@ -319,3 +319,4 @@ fml.messages.version.restriction.bounded.inclusive=между %s и %s (вклю
 fml.messages.version.restriction.bounded.exclusive=между %s и %s (исключительно)
 fml.messages.version.restriction.bounded.lowerexclusive=выше %s и %s или ниже
 fml.messages.version.restriction.bounded.upperexclusive=%s или выше и ниже %s
+
