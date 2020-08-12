@@ -1,3 +1,5 @@
+# Forge
+
 commands.forge.usage=Use /forge <subcommand>
 commands.forge.usage.tracking=Use /forge track <type> <duration>. Valid types are "te" (Tile Entities). Duration in seconds must be <= 60.
 commands.forge.usage.help=Use help [command] to view usages for that command.
