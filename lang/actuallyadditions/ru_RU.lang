@@ -861,10 +861,10 @@ booklet.actuallyadditions.trialFinishButton.uncompleted.name=Не заверше
 booklet.actuallyadditions.trialsButton.name=Испытания
 
 #Booklet Info
-booklet.actuallyadditions.recipeDisabled=The crafting recipe for this item is disabled in the Config File! If you're on a server, ask the server author to enable it in the config. If you're on a client, press the 'Open Config'-Button on the top right and enable the recipe!
-booklet.actuallyadditions.unavailable=Parts of this feature are currently disabled or incomplete due to the not fully complete 1.8.9 and 1.9 Port. You may experience something that's missing or doesn't fully work. Please use this item with caution!
-booklet.actuallyadditions.clickToSeeRecipe=Click to see more Information
-booklet.actuallyadditions.amountOfWordsAndChars=Total: %s words, %s characters
+booklet.actuallyadditions.recipeDisabled=Рецепт создания этого предмета отключен в файле конфигурации! Если вы находитесь на сервере, попросите владельца сервера включить его в конфигурации. Если вы играете через клиент, нажмите кнопку «Открыть конфигурацию» в правом верхнем углу и включите рецепт!
+booklet.actuallyadditions.unavailable=Части этой функции в настоящее время отключены или являются неполными из-за не полностью завершенных версий 1.8.9 и 1.9. Вы можете столкнуться с тем, что чего-то не хватает или не работает полностью. Пожалуйста, используйте этот предмет с осторожностью!
+booklet.actuallyadditions.clickToSeeRecipe=Нажмите чтобы увидеть больше информации
+booklet.actuallyadditions.amountOfWordsAndChars=Всего: %s слов, %s символов
 
 #Booklet Trials
 booklet.actuallyadditions.trials.crystalProduction.name=Automated Crystallization
