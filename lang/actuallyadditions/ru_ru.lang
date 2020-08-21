@@ -1083,22 +1083,22 @@ booklet.actuallyadditions.chapter.bookTutorial.text.1=<item> Мануал Actual
 booklet.actuallyadditions.chapter.bookTutorial.text.2=Чтобы <imp>вернуться назад<r> нажмите кнопку <imp>в левом вверхнем углу<r> или <imp>ПКМ<r>, вы окажитесь во <item>входе<r>. Входы содержат все главы, отсортированные по <imp>специфичным оглавлениям<r>. Здесь вы также можете <imp>переворачивать страницы<r> и нажимать на предметы на страницах. <n><n>Чтобы вернуться назад, вы также можете нажать кнопку в вверхнем левом углу или ПКМ, вы окажитесь на <item>главной странице<r> мануала. Переверните страницу вправо.
 booklet.actuallyadditions.chapter.bookTutorial.text.3=На <item>главной странице<r>, вы можете увидеть (и нажать) список <imp>всех входов<r>. <n><n><item>Закладки<r> расположены <imp>сбоку буклета<r>. Пока вы <imp>читаете главу<r>, вы можете сохранить её <imp>как закладку<r> для <imp>дальнейшего просмотра<r>. <n><n>Буклет имеет <imp>множество других функций<r>. Посмотрите и проверье их все! <n><n><i>Теперь нажмите кнопку "Вернуться" дабы выйти из этой главы.
 
-booklet.actuallyadditions.chapter.reconstructorLenses.name=Intro to Lenses
-booklet.actuallyadditions.chapter.reconstructorLenses.text.1=The <item>Atomic Reconstructor<r>, by default, can only convert some blocks. <n>This can be changed, however, with <item>Lenses<r>. They can be attached to the Reconstructor via <imp>right-clicking<r> with them in hand. To remove them, right-click with an empty hand. <n>They all use a different amount of power and will only activate <imp>once they have it<r>. <n><item>Lenses<r> have lots of different features and uses, as you can see in <imp>this chapter<r>. <n>However, there are also some <imp>other useful recipes<r> too.
+booklet.actuallyadditions.chapter.reconstructorLenses.name=Сквозь линзы
+booklet.actuallyadditions.chapter.reconstructorLenses.text.1=<item>Атомный реконструктор<r>, обычно, лишь превращает блоки. <n>Однако, это может быть изменено при помощи <item>линз<r>. Они могут быть прикреплены к реконструктору при помощи нажатия <imp>ПКМ<r>, держа линзу в руке. Чтобы снять их, нажмите ПКМ с пустой рукой. <n>Все они используют разное количество энергии и <imp>используются лишь раз<r>. <n><item>Линзы<r> имеют большой функционал, как вы видите <imp>в этой главе<r>. <n>Однако, здесь ещё описаны  некоторые <imp>другие полезные рецепты<r>.
 
-booklet.actuallyadditions.chapter.additionalRecipes.name=Additional Recipes
+booklet.actuallyadditions.chapter.additionalRecipes.name=Дополнительные рецепты
 
-booklet.actuallyadditions.chapter.bookSplitting.name=Splitting Enchanted Books
-booklet.actuallyadditions.chapter.bookSplitting.text.1=The <item>Atomic Reconstructor<r> has the ability to split books with multiple enchantments into more books, with only a single enchantment each. This costs <imp>155000 CF<r>, so you will only ever be able to split a single book at a time. Be careful to not leave multiple books in the path of the reconstructor, or it might hit one with only a single enchantment, <imp>voiding 155000 CF<r>! As a side effect, this process generates enchanted books out of thin air to fulfill it's purpose. Magic, right?
+booklet.actuallyadditions.chapter.bookSplitting.name=Разделение зачарованных книг
+booklet.actuallyadditions.chapter.bookSplitting.text.1=<item>Атомный реконструктор<r> способен разделять книги с несколькими зачарованиями на несколько других, в каждой по одному зачарованию соотвественно. Стоит данный процесс <imp>155000 CF<r>, так что вы можете разделить только одну книгу за раз. Будьте осторожны, и не кидайте несколько книг подряд, есть шанс, что лазер коснётся только книги с одним зачарованием, <imp>потратив 155000 CF впустую<r>! В побочный эффект: эти книги появляются из воздуха без каких-либо причин. Магия, правда?
 
-booklet.actuallyadditions.chapter.lensColor.name=Lens of Color
-booklet.actuallyadditions.chapter.lensColor.text.1=The <item>Lens of Color<r> changes the color of <imp>Stained Glass and Panes, Stained Clay, Carpet, Dye, Lamps, Wool<r> in its sight. <n>Contrary to using no lens, it goes <imp>through blocks<r> and only converts blocks it touches.
+booklet.actuallyadditions.chapter.lensColor.name=Линзы цвета
+booklet.actuallyadditions.chapter.lensColor.text.1=<item>Линзы цвета<r> меняет цвет <imp>покрашенных стёкол, панелей, обжаренной глины, ковров, красителей, ламп и шерсти<r> в своём поле зрения. <n>Он <imp>проходит сквозь блоки<r>, с которыми не может взаимодействовать и превращает только конвертируемые предметы.
 
-booklet.actuallyadditions.chapter.lensDeath.name=Lens of Certain Death
-booklet.actuallyadditions.chapter.lensDeath.text.1=The <item>Lens of Certain Death<r> will, <imp>deal lots of damage<r> to whatever steps into it, enough, in fact, to kill a player <imp>in a single hit<r>.
+booklet.actuallyadditions.chapter.lensDeath.name=Линзы мнгновенной смерти
+booklet.actuallyadditions.chapter.lensDeath.text.1=<item>Линзы мнгновенной смерти<r> наносят <imp>огромное количество урона<r> любому, кто встанет на пути у лазера, такого урона достаточно чтобы убить игрока <imp>в один выстрел<r>.
 
-booklet.actuallyadditions.chapter.lensDetonation.name=Lens of Detonation
-booklet.actuallyadditions.chapter.lensDetonation.text.1=The <item>Lens of Detonation<r> will create a fiery explosion <imp>around the block the laser hits<r>. <n>Be careful with this. Seriously. <n>(With this lens, the laser also goes 3 times as far!)
+boofaklet.actuallyadditions.chapter.lensDetonation.name=Линзы детонации
+booklet.actuallyadditions.chapter.lensDetonation.text.1=<item>Линзы детонации<r> создают огромный взрыв <imp>вокруг блока, которого коснулся лазера<r>. <n>Будьте осторожны, это вещь способна уничтожить всё вокруг. <n>(Данная линза увеличивает длину лазера в 3 раза!)
 
 booklet.actuallyadditions.chapter.lensDisenchanting.name=Lens of Disenchanting
 booklet.actuallyadditions.chapter.lensDisenchanting.text.1=The <item>Lens of Disenchanting<r> can be used to <imp>transfer<r> a single <imp>enchantment<r> from an enchanted item to either a <item>Book<r> or an already <item>Enchanted Book<r>. <n>This can be achieved by <imp>throwing the two items in front of the laser<r> (more than one of every type won't work!), but they have to be together <imp>in one blockspace<r>. <n>When they are hit by the laser, the <imp>topmost enchantment<r> from the non-book item is <imp>removed<r> and <imp>added onto the book<r>. <n><n>However, this uses <imp><energy> CF<r>.
