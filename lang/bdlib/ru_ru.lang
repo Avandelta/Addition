@@ -1,0 +1,30 @@
+bdlib.multiblock.face.north=Север
+bdlib.multiblock.face.south=Юг
+bdlib.multiblock.face.east=Восток
+bdlib.multiblock.face.west=Запад
+bdlib.multiblock.face.up=Верх
+bdlib.multiblock.face.down=Низ
+
+bdlib.multiblock.disabled=Отключено
+bdlib.multiblock.incomplete=Этот механизм не завершён, ему требуется как минимум:
+bdlib.multiblock.notconnected=Не подключено к верному механизму
+bdlib.multiblock.toomanyoutputs=Слишком много выходов подсоединено, нельзя установить новое соединение
+bdlib.multiblock.tip.module=Может быть установлено в:
+bdlib.multiblock.tip.controller=Возможные модули:
+bdlib.multiblock.tip.module.range= * %s (%s - %s)
+bdlib.multiblock.tip.module.max= * %s (до %s)
+
+bdlib.rsmode.always=Всегда ВКЛ.
+bdlib.rsmode.never=Отключен
+bdlib.rsmode.rs_on=Включение по сигналу красного камня
+bdlib.rsmode.rs_off=Отключение по сигналу красного камня
+
+bdlib.label.empty=Пусто
+
+bdlib.oredistribution.usage=/oredistribution <радиус> [<мин. высота>] [<макс. высота>] [--файл]
+bdlib.oredistribution.start1=Проверка распределения руды от (%s,%s,%s) к (%s,%s,%s) в %s
+bdlib.oredistribution.start2=Сервер может немного отставать.
+bdlib.oredistribution.entry=%s %s - %s (%s%%)
+bdlib.oredistribution.warn=%s Внимание: %s имеет несколько вариаций:
+bdlib.oredistribution.saved=Распределение руды сохранено в дамп %s
+bdlib.oredistribution.error=Ошибка сохранения распределения руды в дамп: %s
