@@ -19,73 +19,73 @@ entity.Villager.actuallyadditions.crystallizer=Кристаллизатор
 entity.Villager.actuallyadditions.engineer=Инженер
 
 # Флаги (баннеры)
-item.banner.actuallyadditionsBook.black=Чёрный ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.red=Красный ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.green=Зелёный ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.brown=Коричневый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.blue=Синий ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.purple=Фиолетовый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.cyan=Голубой ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.silver=Серебрянный ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.gray=Серый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.pink=Розовый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.lime=Лаймовый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.yellow=Жёлтый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.lightBlue=Светло-синий ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.magenta=Пурпурный ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.orange=Оранжевый ручной шаблон Actually Additions
-item.banner.actuallyadditionsBook.white=Белый ручной шаблон Actually Additions
+item.banner.actuallyadditionsBook.black=Чёрный рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.red=Красный рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.green=Зелёный рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.brown=Коричневый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.blue=Синий рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.purple=Фиолетовый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.cyan=Голубой рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.silver=Серебрянный рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.gray=Серый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.pink=Розовый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.lime=Лаймовый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.yellow=Жёлтый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.lightBlue=Светло-синий рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.magenta=Пурпурный рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.orange=Оранжевый рисунок мануала Actually Additions
+item.banner.actuallyadditionsBook.white=Белый рисунок мануала Actually Additions
 
-item.banner.actuallyadditionsPhanCon.black=Чёрный шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.red=Красный шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.green=Зелёный шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.brown=Коричневый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.blue=Синий шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.purple=Фиолетовый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.cyan=Голубой шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.silver=Серебрянный шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.gray=Серый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.pink=Розовый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.lime=Лаймовый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.yellow=Жёлтый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.lightBlue=Светло-синий шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.magenta=Пурпурный шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.orange=Оранжевый шаблон фантомного соединителя
-item.banner.actuallyadditionsPhanCon.white=Белый шаблон фантомного соединителя
+item.banner.actuallyadditionsPhanCon.black=Чёрный рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.red=Красный рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.green=Зелёный рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.brown=Коричневый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.blue=Синий рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.purple=Фиолетовый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.cyan=Голубой рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.silver=Серебрянный рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.gray=Серый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.pink=Розовый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.lime=Лаймовый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.yellow=Жёлтый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.lightBlue=Светло-синий рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.magenta=Пурпурный рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.orange=Оранжевый рисунок фантомного соединителя
+item.banner.actuallyadditionsPhanCon.white=Белый рисунок фантомного соединителя
 
-item.banner.actuallyadditionsLeafBlo.black=Чёрный лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.red=Красный лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.green=Зелёный лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.brown=Коричневый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.blue=Синий лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.purple=Фиолетовый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.cyan=Голубой лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.silver=Серебрянный лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.gray=Серый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.pink=Розовый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.lime=Лаймовый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.yellow=Жёлтый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.lightBlue=Светло-синий лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.magenta=Пурпурный лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.orange=Оранжевый лист шаблона воздуходува
-item.banner.actuallyadditionsLeafBlo.white=Белый лист шаблона воздуходува
+item.banner.actuallyadditionsLeafBlo.black=Чёрный лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.red=Красный лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.green=Зелёный лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.brown=Коричневый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.blue=Синий лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.purple=Фиолетовый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.cyan=Голубой лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.silver=Серебрянный лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.gray=Серый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.pink=Розовый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.lime=Лаймовый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.yellow=Жёлтый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.lightBlue=Светло-синий лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.magenta=Пурпурный лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.orange=Оранжевый лист рисунок воздуходува
+item.banner.actuallyadditionsLeafBlo.white=Белый лист рисунок воздуходува
 
-item.banner.actuallyadditionsDrill.black=Чёрный шаблон дрели
-item.banner.actuallyadditionsDrill.red=Красный шаблон дрели
-item.banner.actuallyadditionsDrill.green=Зелёный шаблон дрели
-item.banner.actuallyadditionsDrill.brown=Коричневый шаблон дрели
-item.banner.actuallyadditionsDrill.blue=Синий шаблон дрели
-item.banner.actuallyadditionsDrill.purple=Фиолетовый шаблон дрели
-item.banner.actuallyadditionsDrill.cyan=Голубой шаблон дрели
-item.banner.actuallyadditionsDrill.silver=Серебрянный шаблон дрели
-item.banner.actuallyadditionsDrill.gray=Серый шаблон дрели
-item.banner.actuallyadditionsDrill.pink=Розовый шаблон дрели
-item.banner.actuallyadditionsDrill.lime=Лаймовый шаблон дрели
-item.banner.actuallyadditionsDrill.yellow=Жёлтый шаблон дрели
-item.banner.actuallyadditionsDrill.lightBlue=Светло-синий шаблон дрели
-item.banner.actuallyadditionsDrill.magenta=Пурпурный шаблон дрели
-item.banner.actuallyadditionsDrill.orange=Оранжевый шаблон дрели
-item.banner.actuallyadditionsDrill.white=Белый шаблон дрели
+item.banner.actuallyadditionsDrill.black=Чёрный рисунок дрели
+item.banner.actuallyadditionsDrill.red=Красный рисунок дрели
+item.banner.actuallyadditionsDrill.green=Зелёный рисунок дрели
+item.banner.actuallyadditionsDrill.brown=Коричневый рисунок дрели
+item.banner.actuallyadditionsDrill.blue=Синий рисунок дрели
+item.banner.actuallyadditionsDrill.purple=Фиолетовый рисунок дрели
+item.banner.actuallyadditionsDrill.cyan=Голубой рисунок дрели
+item.banner.actuallyadditionsDrill.silver=Серебрянный рисунок дрели
+item.banner.actuallyadditionsDrill.gray=Серый рисунок дрели
+item.banner.actuallyadditionsDrill.pink=Розовый рисунок дрели
+item.banner.actuallyadditionsDrill.lime=Лаймовый рисунок дрели
+item.banner.actuallyadditionsDrill.yellow=Жёлтый рисунок дрели
+item.banner.actuallyadditionsDrill.lightBlue=Светло-синий рисунок дрели
+item.banner.actuallyadditionsDrill.magenta=Пурпурный рисунок дрели
+item.banner.actuallyadditionsDrill.orange=Оранжевый рисунок дрели
+item.banner.actuallyadditionsDrill.white=Белый рисунок дрели
 
 # Интеграция JEI (NEI)
 container.nei.actuallyadditions.crushing.name=Дробитель
@@ -100,18 +100,18 @@ container.nei.actuallyadditions.coffee.special=Особая функция
 container.nei.actuallyadditions.coffee.maxAmount=Макс. кол-во
 container.nei.actuallyadditions.coffee.extra.milk=+01:00, -1 Уровень
 container.nei.actuallyadditions.reconstructor.name=Атомный реконструктор
-container.nei.actuallyadditions.empowerer.name=Заряжатель
+container.nei.actuallyadditions.empowerer.name=Усилитель
 
 container.nei.actuallyadditions.booklet.name=Мануал Actually Additions
-container.nei.actuallyadditions.booklet.header=<item>Actually Additions Manual<r> говорит:
+container.nei.actuallyadditions.booklet.header=<item>Мануал Actually Additions<r> говорит:
 container.nei.actuallyadditions.booklet.noText=Тут ничего нет! Но это ничего не значит, просто нажмите кнопку внизу, чтобы увидеть элемент внутри буклета.
 
 # Источники урона
 death.actuallyadditions.atomicReconstructor.1=%s подвергся атомной реконструкции.
 death.actuallyadditions.atomicReconstructor.2=Атомный реконструктор поймал %s в своём поле зрения.
 death.actuallyadditions.atomicReconstructor.3=Атомный реконструктор %s не взаимодействует с людьми.
-death.actuallyadditions.atomicReconstructor.4=%s не должен был затрагивать реконструктор!
-death.actuallyadditions.atomicReconstructor.5=%s требует небольшого количества пены реконструкции.
+death.actuallyadditions.atomicReconstructor.4=%s не должен был трогать реконструктор!
+death.actuallyadditions.atomicReconstructor.5=%s требует небольшого количества строительной пены.
 
 # Блоки
 tile.actuallyadditions.block_compost.name=Компост
@@ -119,7 +119,7 @@ tile.actuallyadditions.block_misc_ore_black_quartz.name=Руда чёрного 
 tile.actuallyadditions.block_misc_black_quartz.name=Блок чёрного кварца
 tile.actuallyadditions.block_misc_black_quartz_chiseled.name=Резной блок чёрного кварца
 tile.actuallyadditions.block_misc_black_quartz_pillar.name=Колонна из черного кварца
-tile.actuallyadditions.block_feeder.name=Автокормчий
+tile.actuallyadditions.block_feeder.name=Кормчий
 tile.actuallyadditions.block_giant_chest.name=Малый ящик для хранения
 tile.actuallyadditions.block_giant_chest_medium.name=Средний ящик для хранения
 tile.actuallyadditions.block_giant_chest_large.name=Большой ящик для хранения
@@ -159,13 +159,13 @@ tile.actuallyadditions.block_player_interface.name=Интерфейс игрок
 tile.actuallyadditions.block_phantom_energyface.name=Энерго-фантом
 tile.actuallyadditions.block_phantom_redstoneface.name=Красный фантом
 tile.actuallyadditions.block_phantom_liquiface.name=Жидкостный фантом
-tile.actuallyadditions.block_phantom_placer.name=Призрачный разместитель
-tile.actuallyadditions.block_phantom_breaker.name=Призрачный разрушитель
+tile.actuallyadditions.block_phantom_placer.name=Фантомный разместитель
+tile.actuallyadditions.block_phantom_breaker.name=Фантомный разрушитель
 tile.actuallyadditions.block_lava_factory_controller.name=Контроллер лавовой фабрики
 tile.actuallyadditions.block_misc_lava_factory_case.name=Корпус
 tile.actuallyadditions.block_fluid_placer.name=Жидкостный разместитель
 tile.actuallyadditions.block_fluid_collector.name=Жидкостный собиратель
-tile.actuallyadditions.block_phantom_booster.name=Призрачный ускоритель
+tile.actuallyadditions.block_phantom_booster.name=Фантомный ускоритель
 tile.actuallyadditions.block_coffee.name=Кофе
 tile.actuallyadditions.block_wild_canola.name=Дикая канола
 tile.actuallyadditions.block_wild_rice.name=Дикий рис
@@ -199,9 +199,9 @@ tile.actuallyadditions.block_leaf_generator.name=Листовой генерат
 tile.actuallyadditions.block_directional_breaker.name=Разрушитель дальнего действия
 tile.actuallyadditions.block_ranged_collector.name=Диапазонный собиратель
 tile.actuallyadditions.block_laser_relay.name=Реле лазера
-tile.actuallyadditions.block_laser_relay_advanced.name=Энергосберегающее лазерное реле
+tile.actuallyadditions.block_laser_relay_advanced.name=Энергетическое лазерное реле
 tile.actuallyadditions.block_laser_relay_extreme.name=Экстремальное лазерное реле
-tile.actuallyadditions.block_laser_relay_fluids.name=Реле жидкостного лазера
+tile.actuallyadditions.block_laser_relay_fluids.name=Жидкостное лазерное реле
 tile.actuallyadditions.block_misc_iron_casing.name=Железный корпус
 tile.actuallyadditions.block_black_lotus.name=Чёрный лотос
 tile.actuallyadditions.block_testifi_bucks_white_fence.name=Эфирная кварцевая стена
@@ -250,7 +250,7 @@ tile.actuallyadditions.block_crystal_cluster_coal.name=Чёрное криста
 tile.actuallyadditions.block_crystal_cluster_emerald.name=Зелёное кристаллическое скопление
 tile.actuallyadditions.block_crystal_cluster_iron.name=Белое кристаллическое скопление
 
-#ESD
+# ESD
 tile.actuallyadditions.block_inputter.name=ESD
 tile.actuallyadditions.block_inputter_advanced.name=Продвинутый ESD
 tile.actuallyadditions.block_inputter.add.1.name="Ellpeck's Slot Device"
@@ -269,7 +269,7 @@ tile.actuallyadditions.block_inputter.add.13.name="Efficient Sucking Dilettant"
 tile.actuallyadditions.block_inputter.add.14.name="Extreme Sand Digger"
 tile.actuallyadditions.block_inputter.add.15.name="Ending Serious Daughter"
 
-#Reconstructor
+# Реконструктор (атомный)
 tile.actuallyadditions.block_atomic_reconstructor.name=Атомный реконструктор
 
 tile.actuallyadditions.block_atomic_reconstructor.info.1.1=Молекулярный
@@ -300,12 +300,12 @@ tile.actuallyadditions.block_atomic_reconstructor.info.2.12=Заменитель
 tile.actuallyadditions.block_atomic_reconstructor.info.2.13=Дифференциатор
 tile.actuallyadditions.block_atomic_reconstructor.info.2.14=Приёмник
 
-#Items
+# Предметы
 item.actuallyadditions.item_drill.name=Дрель
 item.actuallyadditions.item_food_rice.name=Рис
 item.actuallyadditions.item_food_doughnut.name=Пончик
 item.actuallyadditions.item_misc_rice_dough.name=Рисовое тесто
-item.actuallyadditions.item_food_rice_bread.name=Рисовый хлеь
+item.actuallyadditions.item_food_rice_bread.name=Рисовый хлеб
 item.actuallyadditions.item_rice_seed.name=Семена риса
 item.actuallyadditions.item_misc_tiny_coal.name=Мелкий уголь
 item.actuallyadditions.item_misc_tiny_charcoal.name=Мелкий древесный уголь
@@ -318,7 +318,7 @@ item.actuallyadditions.item_battery_quintuple.name=Пятерная батаре
 item.actuallyadditions.item_growth_ring.name=Кольцо роста
 item.actuallyadditions.item_water_removal_ring.name=Кольцо удаления жидкостей
 item.actuallyadditions.item_suction_ring.name=Магнитное кольцо
-item.actuallyadditions.item_bucket_canola_oil.name=Ведро масло канолы
+item.actuallyadditions.item_bucket_canola_oil.name=Ведро масла канолы
 item.actuallyadditions.item_bucket_oil.name=Ведро с маслом
 item.actuallyadditions.item_wings_of_the_bats.name=Крылья летучей мыши
 item.actuallyadditions.item_misc_bat_wing.name=Мышиные крылья
@@ -347,7 +347,7 @@ item.actuallyadditions.item_drill_upgrade_fortune_ii.name=Улучшение д�
 item.actuallyadditions.item_drill_upgrade_block_placing.name=Улучшение дрели: "Разместитель блоков"
 item.actuallyadditions.item_drill_upgrade_three_by_three.name=Улучшение дрели: "Добыча I"
 item.actuallyadditions.item_drill_upgrade_five_by_five.name=Улучшение дрели: "Добыча II"
-item.actuallyadditions.item_misc_mashed_food.name=Био-каша
+item.actuallyadditions.item_misc_mashed_food.name=Био-гумус
 item.actuallyadditions.item_fertilizer.name=Удобрение
 item.actuallyadditions.item_misc_dough.name=Тесто
 item.actuallyadditions.item_misc_paper_cone.name=Бумажный конус
@@ -451,7 +451,7 @@ item.actuallyadditions.item_misc_lens.name=Линза
 item.actuallyadditions.item_color_lens.name=Линза цвета
 item.actuallyadditions.item_explosion_lens.name=Линза детонации
 item.actuallyadditions.item_damage_lens.name=Линза смерти
-item.actuallyadditions.item_disenchanting_lens.name=Линза разочорования
+item.actuallyadditions.item_disenchanting_lens.name=Линза разочарования
 item.actuallyadditions.item_crate_keeper.name=Хранилище ящиков
 item.actuallyadditions.item_pickaxe_crystal_red.name=Кирка из Рестонии
 item.actuallyadditions.item_axe_crystal_red.name=Топор из Рестонии
@@ -517,14 +517,14 @@ item.actuallyadditions.item_food_bacon.name=Бекон
 item.actuallyadditions.item_misc_ender_star.name=Звезда Края
 item.actuallyadditions.item_spawner_changer.name=Редактор спавнера
 item.actuallyadditions.item_misc_spawner_shard.name=Осколки спавнера
-item.actuallyadditions.item_minecart_firework_box.name=Вагонетка с ящиков фейрверков
+item.actuallyadditions.item_minecart_firework_box.name=Вагонетка с ящиком фейрверков
 item.actuallyadditions.item_water_bowl.name=Миска с водой
 item.actuallyadditions.item_filter.name=Предметный фильтр
 item.actuallyadditions.item_misc_biomass.name=Биомасса
 item.actuallyadditions.item_misc_biocoal.name=Био-уголь
 item.actuallyadditions.item_player_probe.name=Зонд игрока
 item.actuallyadditions.item_worm.name=Червь
-item.actuallyadditions.item_bag.name=Дорожный мешок
+item.actuallyadditions.item_bag.name=Мешок путешественника
 item.actuallyadditions.item_bag.storage=заполненные слоты
 item.actuallyadditions.item_void_bag.name=Пустотный мешок
 item.actuallyadditions.item_misc_crystallized_canola_seed.name=Кристаллизированые семена канолы
@@ -543,7 +543,7 @@ item.actuallyadditions.item_crystal_shard_black.name=Чёрный осколок
 item.actuallyadditions.item_crystal_shard_green.name=Зелёный осколок кристалла
 item.actuallyadditions.item_crystal_shard_white.name=Белый осколок кристалла
 
-#Tooltips
+# Подсказки
 tooltip.actuallyadditions.onSuffix.desc=Вкл.
 tooltip.actuallyadditions.phantom.connected.desc=<Блок подключен!>
 tooltip.actuallyadditions.phantom.stored.desc=<Блок хранится в этом соединителе!>
@@ -575,11 +575,11 @@ tooltip.actuallyadditions.item_booklet.desc=Или "Буклет", как хот
 tooltip.actuallyadditions.item_booklet.sub.1=Эта книга даёт вам советы
 tooltip.actuallyadditions.item_booklet.sub.2=по Actually Additions
 tooltip.actuallyadditions.item_booklet.sub.3=без предложений.
-tooltip.actuallyadditions.item_booklet.sub.4=Используйте во время удержания чтобы использовать.
-tooltip.actuallyadditions.playerProbe.disconnect.1=Игрок за которым вы следили, либо сломан, либо его невозможно запереть в интерфейсе игрока! Данные будут очищены!
+tooltip.actuallyadditions.item_booklet.sub.4=Используйте, держа в руке - дабы открыть.
+tooltip.actuallyadditions.playerProbe.disconnect.1=Игрок за которым вы следили, либо сломан, либо его невозможно подключить к интерфейсу игрока! Данные будут очищены!
 tooltip.actuallyadditions.playerProbe.disconnect.2=Игрок за которым вы следили отключился! Данные будут очищены!
 tooltip.actuallyadditions.playerProbe.probing=Наблюдение
-tooltip.actuallyadditions.playerProbe.notice=Смотри! Кто-то попытался проследить за тобой и запереть в интерфейсе игрока!
+tooltip.actuallyadditions.playerProbe.notice=Смотри! Кто-то попытался проследить за тобой и подключить к интерфейсу игрока!
 tooltip.actuallyadditions.battery.discharge=Заряжает предметы в инвентаре
 tooltip.actuallyadditions.battery.noDischarge=Не заряжает предметы в инвентаре
 tooltip.actuallyadditions.battery.changeMode=ПКМ сидя дабы включить
@@ -590,11 +590,11 @@ tooltip.actuallyadditions.item_filling_wand.selectedBlock=Выбранный б�
 tooltip.actuallyadditions.item_filling_wand.selectedBlock.none=Ничего
 tooltip.actuallyadditions.coffeeCup.noEffect=Без эффектов
 
-#Gui Information
+# Интерфейс (GUI)
 info.actuallyadditions.gui.animals=Животные
-info.actuallyadditions.gui.enoughToBreed=Enough to breed!
-info.actuallyadditions.gui.tooMany=Too many to breed!
-info.actuallyadditions.gui.notEnough=Not enough to breed!
+info.actuallyadditions.gui.enoughToBreed=Достаточно для размножения!
+info.actuallyadditions.gui.tooMany=Слишком много для размножения!
+info.actuallyadditions.gui.notEnough=Недостаточно для размножения!
 info.actuallyadditions.gui.disabled=Отключено
 info.actuallyadditions.gui.up=Верх
 info.actuallyadditions.gui.down=Низ
@@ -646,12 +646,12 @@ info.actuallyadditions.booklet.searchField=Нажмите для поиска.
 info.actuallyadditions.booklet.hudDisplay.page=Страница
 info.actuallyadditions.booklet.hudDisplay.open=ПКМ чтобы открыть.
 info.actuallyadditions.booklet.hudDisplay.noInfo=Нет доступной информации.
-info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1=Присядъте смотря на блок из Actually Additions
+info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1=Присядьте смотря на блок из Actually Additions
 info.actuallyadditions.booklet.hudDisplay.noInfo.desc.2=чтобы увидеть больше информации о нём!
 info.actuallyadditions.deathRecorded=Ваша смерть была сохранена. Используйте поисковик смерти дабы отследить последнее место погибели!
 info.actuallyadditions.placer.sides.1=Стороны размещения
 info.actuallyadditions.placer.sides.2=Обычно при расстановке блоков, они ставят блок напротив стороны другого. Учитывая что призрачный разместитель способен ставить блоки посреди воздуха, он этого не знает. Поэтому вы должны ставить его напротив закрепленной стороны.
-info.actuallyadditions.machineBroke=Блок развалился как вы попытались его сломать. Может быть, он был недостаточно прочным, чтобы сломаться?
+info.actuallyadditions.machineBroke=Блок развалился как вы попытались его сломать. Может быть, он был недостаточно прочным, чтобы он стал вашей добычей?
 info.actuallyadditions.redstoneMode.name=Режим красного камня
 info.actuallyadditions.redstoneMode.pulse=Пульс
 info.actuallyadditions.redstoneMode.deactivation=Деактивация
@@ -666,9 +666,9 @@ info.actuallyadditions.laserRelay.fluid.extra=Жидкостный поток
 info.actuallyadditions.laserRelay.mode.both=Двойное направление
 info.actuallyadditions.laserRelay.mode.outputOnly=Только в соседние блоки
 info.actuallyadditions.laserRelay.mode.inputOnly=Только из соседних блоков
-info.actuallyadditions.laserRelay.mode.noCompasss=Удерживайте  %s чтобы изменить!
+info.actuallyadditions.laserRelay.mode.noCompasss=Удерживайте %s чтобы изменить!
 
-#Container Names
+# Наименования интерфейса (контейнеров)
 container.actuallyadditions.inputter.name=ESD
 container.actuallyadditions.inputterAdvanced.name=Продвинутый ESD
 container.actuallyadditions.grinder.name=Дробитель
@@ -679,7 +679,7 @@ container.actuallyadditions.giantChest.name=Мелкий ящик хранени
 container.actuallyadditions.giantChest.desc='Мелкий'
 container.actuallyadditions.giantChestMedium.name=Средний ящик хранения
 container.actuallyadditions.giantChestLarge.name=Больший ящик хранения
-container.actuallyadditions.giantChestLarge.desc=Супер-твёрдый
+container.actuallyadditions.giantChestLarge.desc=Супер-большой
 container.actuallyadditions.repairer.name=Ремонтник
 container.actuallyadditions.placer.name=Авто-разместитель
 container.actuallyadditions.breaker.name=Авто-разрушитель
@@ -705,7 +705,7 @@ container.actuallyadditions.cloud.name=Улыбающееся облако
 container.actuallyadditions.directionalBreaker.name=Разрушитель дальнего действия
 container.actuallyadditions.rangedCollector.name=Диапазонный собиратель
 container.actuallyadditions.miner.name=Вертикальный копатель
-container.actuallyadditions.laserRelayItemWhitelist.name=Реле лазера
+container.actuallyadditions.laserRelayItemWhitelist.name=Лазерное реле
 container.actuallyadditions.filter.name=Предметный фильтр
 container.actuallyadditions.bag.name=Сумка путешественника
 container.actuallyadditions.voidBag.name=Пустотная сумка
@@ -718,14 +718,14 @@ container.actuallyadditions.heatCollector.name=Тепловой собирате
 container.actuallyadditions.greenhouseGlass.name=Стекло теплицы
 container.actuallyadditions.playerInterface.name=Интерфейс игрока
 container.actuallyadditions.lavaFactory.name=Контроллер лавовой фабрики
-container.actuallyadditions.phantomBooster.name=Призрачный ускоритель
+container.actuallyadditions.phantomBooster.name=Фантомный ускоритель
 container.actuallyadditions.smileyCloud.name=Улыбающееся обалко
 container.actuallyadditions.leafGenerator.name=Листовой генератор
 container.actuallyadditions.reconstructor.name=Атомный реконструктор
 container.actuallyadditions.redstoneface.name=Красный фантом
 container.actuallyadditions.laserRelayItem.name=Предметное лазерное реле
 container.actuallyadditions.laserRelay.name=Лазерное реле
-container.actuallyadditions.laserRelayAdvanced.name=Энергосберегающее лазерное реле
+container.actuallyadditions.laserRelayAdvanced.name=Энергетическое лазерное реле
 container.actuallyadditions.laserRelayExtreme.name=Экстремальное лазерное реле
 container.actuallyadditions.itemViewer.name=Предметный интерфейс
 container.actuallyadditions.displayStand.name=Выставочный стенд
@@ -735,19 +735,19 @@ container.actuallyadditions.laserRelayFluids.name=Жидкостное лазе�
 container.actuallyadditions.distributorItem.name=Распределитель предметов
 container.actuallyadditions.fireworkBox.name=Ящик фейрверков
 
-#Update Information
+# Информация об обновлении
 info.actuallyadditions.update.generic=[{"text":"Есть новое обновление для "},{"text":"Actually Additions ","color":"dark_green"}]
 info.actuallyadditions.update.versionCompare=[{"text":"Текущая версия: "},{"text":"%s","color":"dark_red"},{"text":", новейшая версия: ","color":"none"},{"text":"%s","color":"dark_green"}]
 info.actuallyadditions.update.buttons=[{"text":"["},{"text":"Нажмите для списка изменений","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"] [","color":"none"},{"text":"Нажмите чтобы скачать","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"]","color":"none"}]
 info.actuallyadditions.update.buttonOptions=ЛКМ: Список изменений, Shift-ЛКМ: Скачивание! (Браузер по умолчанию)
 info.actuallyadditions.update.failed=[{"text":"Проверка обновлений для "},{"text":"Actually Additions ","color":"dark_green"},{"text":"провалена! Посмотрите журнал аудита для дополнительной информации!","color":"none"}]
 
-#Achievements
+# Достижения
 achievement.actuallyadditions.openBooklet=Носитель знаний!
 achievement.actuallyadditions.openBooklet.desc=Откройте мануал Actually Additions
 
 achievement.actuallyadditions.nameSmileyCloud=Твой лучший друг
-achievement.actuallyadditions.nameSmileyCloud.desc=Назовите улыбающееся облако
+achievement.actuallyadditions.nameSmileyCloud.desc=Дайте кличку улыбающемуся облаку
 
 achievement.actuallyadditions.craftPhantomface=Ближе! Ближе! Предметы!
 achievement.actuallyadditions.craftPhantomface.desc=Сделайте фантома
@@ -767,10 +767,10 @@ achievement.actuallyadditions.craftCoalGen.desc=Сделайте угольны�
 achievement.actuallyadditions.craftLeafGen=Росянка?
 achievement.actuallyadditions.craftLeafGen.desc=Сделайте листовой генератор
 
-achievement.actuallyadditions.craftReconstructor=Звук атома
+achievement.actuallyadditions.craftReconstructor=Атомный звук
 achievement.actuallyadditions.craftReconstructor.desc=Сделайте атомный реконструктор
 
-achievement.actuallyadditions.craftEmpowerer=Альтарь наполнения
+achievement.actuallyadditions.craftEmpowerer=Альтарь наполнения?
 achievement.actuallyadditions.craftEmpowerer.desc=Сделайте Зарядник
 
 achievement.actuallyadditions.makeCrystal=Чист как вода
@@ -786,7 +786,7 @@ achievement.actuallyadditions.craftItemInterface=Покажи лицо!
 achievement.actuallyadditions.craftItemInterface.desc=Сделайте предметный интерфейс
 
 achievement.actuallyadditions.craftLaserRelayAdvanced=Энергетическое расширение
-achievement.actuallyadditions.craftLaserRelayAdvanced.desc=Сделайте энергосберегающее лазерное реле
+achievement.actuallyadditions.craftLaserRelayAdvanced.desc=Сделайте энергетическое лазерное реле
 
 achievement.actuallyadditions.craftLaserRelayExtreme=Мощь и гром
 achievement.actuallyadditions.craftLaserRelayExtreme.desc=Сделайте экстремальное лазерное реле
@@ -800,25 +800,25 @@ achievement.actuallyadditions.craftDoubleCrusher.desc=Сделайте двой�
 achievement.actuallyadditions.pickUpCoffee=Утро начинается
 achievement.actuallyadditions.pickUpCoffee.desc=Соберите немного кофе
 
-achievement.actuallyadditions.craftCoffeeMachine=Кружко-зависимый
+achievement.actuallyadditions.craftCoffeeMachine=Кофеман
 achievement.actuallyadditions.craftCoffeeMachine.desc=Сделайте кофеварку
 
 achievement.actuallyadditions.craftFireworkBox=Праздничное эхо
 achievement.actuallyadditions.craftFireworkBox.desc=Сделайте ящик фейрверков
 
-achievement.actuallyadditions.getCrystalsMilestone=Атомный мастер
+achievement.actuallyadditions.getCrystalsMilestone=Учёный-ядерщик
 achievement.actuallyadditions.getCrystalsMilestone.desc=Сделайте 200 кристаллов
 
-achievement.actuallyadditions.openBookletMilestone=Книжный черв!
+achievement.actuallyadditions.openBookletMilestone=Книжный червь!
 achievement.actuallyadditions.openBookletMilestone.desc=Откройте мануал 50 раз
 
 achievement.actuallyadditions.getUnProbed=Ползучий!
-achievement.actuallyadditions.getUnProbed.desc=Будьте под наблюдением дрона, спрячтесь и уйдитесь от преследования
+achievement.actuallyadditions.getUnProbed.desc=Будьте под наблюдением дрона, спрячтесь и уйдите от преследования
 
 achievement.actuallyadditions.completeTrials=Мечта ботана
 achievement.actuallyadditions.completeTrials.desc=Полностью пройдите мануал Actually Additions
 
-#Booklet Recipe Names
+# Рецепты в мануале (буклете)
 booklet.actuallyadditions.shapelessRecipe=Бесформенный рецепт
 booklet.actuallyadditions.shapedRecipe=Форменный рецепт
 booklet.actuallyadditions.shapelessOreRecipe=Бесформенный рецепт словаря руд
@@ -828,59 +828,59 @@ booklet.actuallyadditions.crusherRecipe=Рецепт дробителя
 booklet.actuallyadditions.furnaceRecipe=Печной рецепт
 booklet.actuallyadditions.reconstructorRecipe=Рецепт атомного реконструктора
 
-#Booklet Entries
+# Главы мануала
 booklet.actuallyadditions.indexEntry.gettingStarted.name=Начало начал
 booklet.actuallyadditions.indexEntry.misc.name=Прочее
 booklet.actuallyadditions.indexEntry.crossover.name=Мод-кроссовер
 booklet.actuallyadditions.indexEntry.functionalNoRF.name=Блоки, не использующие CF
 booklet.actuallyadditions.indexEntry.allAndSearch.name=Список всего
-booklet.actuallyadditions.indexEntry.functionalRF.name=Блоки, используй CF
+booklet.actuallyadditions.indexEntry.functionalRF.name=Блоки, использующее CF
 booklet.actuallyadditions.indexEntry.generatingRF.name=Блоки, генерирующие CF
 booklet.actuallyadditions.indexEntry.itemsNoRF.name=Предметы, не использующие CF
 booklet.actuallyadditions.indexEntry.itemsRF.name=Предметы, использующие CF
 booklet.actuallyadditions.indexEntry.reconstruction.name=Реконструкция
 booklet.actuallyadditions.indexEntry.laserRelays.name=Лазерная логистика
 booklet.actuallyadditions.indexEntry.updatesAndInfos.name=Обновления и информация
-booklet.actuallyadditions.indexEntry.trials.name=Цели
+booklet.actuallyadditions.indexEntry.trials.name=Испытания
 
-#Booklet Font Size
+# Размер шрифта
 booklet.actuallyadditions.fontSize.small=0.5
 booklet.actuallyadditions.fontSize.medium=0.75
 booklet.actuallyadditions.fontSize.large=0.8
 
-#Booklet Buttons
+# Кнопки мануала
 booklet.actuallyadditions.bookmarkButton.noBookmark.name=Нет закладок
 booklet.actuallyadditions.bookmarkButton.noBookmark.notPageDesc=Откройте страницу чтобы сделать закладку
 booklet.actuallyadditions.bookmarkButton.noBookmark.pageDesc=ЛКМ чтобы добавить закладку текущей страницы
 booklet.actuallyadditions.bookmarkButton.bookmark.openDesc=ЛКМ чтобы открыть
 booklet.actuallyadditions.bookmarkButton.bookmark.removeDesc=Shift-ЛКМ чтобы удалить
-booklet.actuallyadditions.onlineButton.name=Показать на сайте
+booklet.actuallyadditions.onlineButton.name=Открыть сайт
 booklet.actuallyadditions.configButton.name=Открыть интерфейс конфига
-booklet.actuallyadditions.configButton.desc=Нажмите чтобы изменить конфигурацию %s в игре. \nНекоторые изменения требует перезапуска игры!
+booklet.actuallyadditions.configButton.desc=Нажмите чтобы изменить конфигурацию %s в игре. \nНекоторые изменения требуют перезапуска игры!
 booklet.actuallyadditions.achievementButton.name=Открыть достижения
 booklet.actuallyadditions.achievementButton.desc=Нажмите это чтобы открыть %s достижения.
 booklet.actuallyadditions.trialFinishButton.completed.name=Завершено
 booklet.actuallyadditions.trialFinishButton.uncompleted.name=Не завершено
 booklet.actuallyadditions.trialsButton.name=Испытания
 
-#Booklet Info
+# Информация мануала
 booklet.actuallyadditions.recipeDisabled=Рецепт отключен в конфигурации мода! Если вы играете на сервере, обратитесь к оператору (владельцу) сервера. Если вы играете в одиночном режиме, нажмите 'Открыть конфиг' в правом верхнем углу и включите рецепт!
-booklet.actuallyadditions.unavailable=Части данной модификации не закончены или сломанлы. Это связано с переходом на версии 1.8 и 1.9. Возможно вы столкнётесь с ошибками или неработающими вещами. Используйте данный предмет с осторожностью!
+booklet.actuallyadditions.unavailable=Части данной модификации не закончены или сломаны. Это связано с переходом на версии 1.8 и 1.9. Возможно вы столкнётесь с ошибками или неработающими вещами. Используйте данный предмет с осторожностью!
 booklet.actuallyadditions.clickToSeeRecipe=ЛКМ для большей информации
 booklet.actuallyadditions.amountOfWordsAndChars=Всего: %s слов, %s символов,
 
-#Booklet Trials
+# Испытания мануала
 booklet.actuallyadditions.trials.crystalProduction.name=Автоматическая кристаллизация
-booklet.actuallyadditions.trials.crystalProduction.text.1=Различные типы <item>кристаллов<r> может быть утомительным в изготовлении, особенно если вам часто нужно их много. <n>Использование устройства для сброса или размещения предметов, а также коллектора или выключателя вместе с некоторым количеством красного камня, вероятно, может помочь вам в создании хорошей системы для <imp>автоматического превращения<r> сырых ресурсов в кристаллы.
+booklet.actuallyadditions.trials.crystalProduction.text.1=Различные типы <item>кристаллов<r> могут быть утомительным в изготовлении, особенно если вам часто нужно их много. <n>Использование устройства для сброса или размещения предметов, а также коллектора или выключателя вместе с некоторым количеством красного камня, вероятно, может помочь вам в создании хорошей системы для <imp>автоматического превращения<r> сырья в кристаллы.
 
 booklet.actuallyadditions.trials.leatherProduction.name=Производство кожи
-booklet.actuallyadditions.trials.leatherProduction.text.1=Автоматизация <item>атомного реконструктора<r> может быть приятной вещью, особенно когда вы пытаетесь создать <item>кожу<r> из <item>гнилой плоти<r>, позволяя вам, наконец, извлечь пользу из этих неприятных нежелательных ресурсов.
+booklet.actuallyadditions.trials.leatherProduction.text.1=Автоматизация <item>атомного реконструктора<r> может быть приятным, особенно когда вы пытаетесь создать <item>кожу<r> из <item>гнилой плоти<r>, позволяя вам, наконец, извлечь пользу из этих неприятных нежелательных ресурсов.
 
 booklet.actuallyadditions.trials.crystalOil.name=Автоматическое кристаллизированное масло
-booklet.actuallyadditions.trials.crystalOil.text.1=Первый и второй уровни <item>масла<r> очень легко создать, однако, если вы хотите выработать <imp>гораздо больше энергии<r>, это становится <imp>тяжелее<r> в зависимости от ранга топлива. <n>Создание <item>кристаллизированного масла<r> требуется автоматическая установка, которая преобразует <item>масло<r> в мире, требует <imp>более продвинутую настройку<r>.
+booklet.actuallyadditions.trials.crystalOil.text.1=Первый и второй виды <item>масла<r> очень легко создать, однако, если вы хотите выработать <imp>гораздо больше энергии<r>, это становится <imp>тяжелее<r> в зависимости от вида топлива. <n>Создание <item>кристаллизированного масла<r> требует автоматической установки, которая преобразует <item>масло<r> в мире и затрагивает <imp>более продвинутую настройку<r>.
 
 booklet.actuallyadditions.trials.autoDisenchanter.name=Авто-разочарователь
-booklet.actuallyadditions.trials.autoDisenchanter.text.1=Используя <item>линзу разочарования<r> позволяет легко снимать чары с вещей, которые вам больше не нужны, например <imp>с вещей из рыбалки<r> или из подземелий и <imp>плохих зачарований<r> с ваших инструментов. <n>Автоматизация данного процесса упростит ваш игровой процесс.
+booklet.actuallyadditions.trials.autoDisenchanter.text.1=Используя <item>линзу разочарования<r> вы можете легко снимать зачарования с вещей, которые вам больше не нужны, например <imp>с вещей из рыбалки<r> или из подземелий, снимать <imp>плохие зачарования<r> с ваших инструментов. <n>Автоматизация данного процесса упростит ваш игровой процесс.
 
 booklet.actuallyadditions.trials.empoweredOil.name=Автоматическое усиление масел
 booklet.actuallyadditions.trials.empoweredOil.text.1=<imp>Затраты энергии<r> растут и растут, в то время <imp>больше построек и ферм<r> не помогают? <n>Вы должны попробовать <imp>улучшить<r> ваши <item>масляное (топливное)<r> производство путём <item>усиленного масла<r>. Однако, это требует продвинутого <imp>ландшафта<r> дабы всё это работало, что может оказаться проблемой.
@@ -891,22 +891,22 @@ booklet.actuallyadditions.trials.mobFarm.text.1=Использование <item
 booklet.actuallyadditions.trials.empowererAutomation.name=Усиленная автоматизация
 booklet.actuallyadditions.trials.empowererAutomation.text.1=<item>Зарядник<r> требует много ресурсов для <imp>преобразования кристаллов<r>. Должен быть довольно простой способ создать систему, которая выполняет это <imp>автоматически<r>. Используя <item>предметное лазерное реле<r> должно обеспечивать простой способ разместить нужные предметы на правильных выставочных стендах.
 
-#Booklet Chapters
-booklet.actuallyadditions.chapter.intro.name=История про Actually Additions
+# Главы мануала
+booklet.actuallyadditions.chapter.intro.name=История Actually Additions
 booklet.actuallyadditions.chapter.intro.text.1=<i>Слишком долго люди мира Minecraft трудились под безжалостным кнутом. Кнут более вредный и вредный, чем у любого рабовладельца: неудобство. Да, тысяча миллионов неудобств, составляющих рутинную работу, вынуждают игроков тратить впустую часы - нет, дни! - рубить дрова, выращивать пшеницу и тому подобное. задачи, просто чтобы на мгновение избежать безжалостной скуки и испытать истинные радости мира Minecraft, строя, пещеры и приключения в прекрасном неизведанном изобилии
 booklet.actuallyadditions.chapter.intro.text.2=<i>И все же, стоит только погрузиться в это творческое предприятие, как неудобства возвращаются, как миллионы разъяренных пчел, докучавших, жалящих, роящихся вокруг вас, пока игра не перестает приносить удовольствие, и вы навсегда отгоняете от нее. С этой целью некий Ellpeck создал Actually Additions к миру Майнкрафт, которое позволит игроку лучше взаимодействовать с основным опытом игры - построением игры и приключениями - за счет автоматизации и оптимизации монотонности, которая
 booklet.actuallyadditions.chapter.intro.text.3=<i>поэтому Ellpeck смиренно представляет вам настоящее руководство по дополнениям Actually Additions, которое научит вас играть с этой модификацей и, в конечном итоге, позволит вам преодолеть неудобства и достичь просветления. <r><n><n>                   ~написано <imp>Tulkas<r>, переведено <imp>Falcion<r>,
 
-booklet.actuallyadditions.chapter.craftingIngs.name=Ингридиенты создания
+booklet.actuallyadditions.chapter.craftingIngs.name=Ингридиенты в рецептах
 booklet.actuallyadditions.chapter.craftingIngs.text.1=<imp>Actually Additions<r> содержит много предметов, которые используются в <imp>простых рецептах<r> для создания. Эта глава описывает все эти предметы <imp>по их группе<r> так что вы увидите их по порядку.
 
 booklet.actuallyadditions.chapter.quartz.name=Чёрный кварц
 booklet.actuallyadditions.chapter.quartz.text.1=<item>Чёрный кварц<r> - <imp>руда<r> которая генерируется в мире <imp>меж <lowest> и <highest><r>. Когда сломано, это может быть <imp>выплавляется в печи<r> или <imp>раздробит дробителем<r> разбиться на <item>чёрный кварц<r>.
-booklet.actuallyadditions.chapter.quartz.text.2=<item>Чёрнокварцевые<r> предметы используются во многих <imp>рецептах<r> в <imp>Actually Additions<r>. Они очень важны для большинства предметов и, следовательно, их следует добывать при обнаружении в мире. Из них можно скрафтить несколько разных <imp>декоративных блоков<r> показаны на данных страницах. <n>Каждый вариант может быть переработан в <imp>ступеньки, ограды и плиты<r> при помощи известных рецептов. <n><n><i>Адский кварц смертоноснее чем чёрный кварц по своей природе.
+booklet.actuallyadditions.chapter.quartz.text.2=<item>Чёрнокварцевые<r> предметы используются во многих <imp>рецептах<r> в <imp>Actually Additions<r>. Они очень важны для большинства предметов и, следовательно, их следует добывать при обнаружении в мире. Из них можно скрафтить несколько разных <imp>декоративных блоков<r> показаны на данных страницах. <n>Каждый вариант может быть переработан в <imp>ступеньки, ограды и плиты<r> при помощи известных рецептов. <n><n><i>То же, что и адский кварц, но смертельнее.
 
 booklet.actuallyadditions.chapter.cloud.name=Улыбающееся облако
 booklet.actuallyadditions.chapter.cloud.text.1=<item>Улыбающееся облако<r> - это волшебное парящее облако, которое оживает благодаря частице твердого опыта внутри него. Он весело и весело парит на своем месте, а при нажатии <imp>ПКМ<r>, вы можете <imp>дать ему кличку <r>. <n>При выдаче <imp>уникальных имён<r> наподобие <imp>"Ellpeck"<r> или <imp>"Etho"<r>, он будет содержать некоторые предметы!
-booklet.actuallyadditions.chapter.cloud.text.2=<n><n><n><i> Улыбающая картошечка
+booklet.actuallyadditions.chapter.cloud.text.2=<n><n><n><i>Улыбающая картошечка!
 
 booklet.actuallyadditions.chapter.coalStuff.name=Угольные дела
 booklet.actuallyadditions.chapter.coalStuff.text.1=Иногда <item>уголь<r> просто <imp>горит слишком долго чем надо<r>. <n>Для этого, вы можете создать <item>мелкий уголь<r>, <item>мелкий древесный уголь<r> и <item>блок древесного угля<r> для дальнейшего пользования в качестве топлива. <n>В то время как <item>блок древесного угля<r> горит также как и <item>блок угля<r>, <item>мелкий уголь<r> и <item>мелкий древесный уголь<r> будут гореть как <imp>⅛ (одна восьмая) от обычного угля<r>, значит она будет <imp>плавить один предмет в обычной печи<r>.
@@ -916,8 +916,8 @@ booklet.actuallyadditions.chapter.lamps.text.1=<item>Лампы<r> - блоки,
 booklet.actuallyadditions.chapter.lamps.text.2=Однако есть способ переключать их с помощью <imp>красного камня<r>. Если вы поместите <item>контроллер лампы<r> лицом внутрь и подадите ему <imp>сигнал красного камня<r>, он включит и выключит лампу перед ним. <n>Что делает его очень продвинутым, так это то, что он также <imp>переключает каждую лампу, смежную с этой лампой<r>, и все остальные лампы, которых он касается. <n>Это означает, что у вас может быть огромное поле ламп и переключать их все с помощью <imp>всего лишь одного<r> <item>контроллера лампы<r>.
 
 booklet.actuallyadditions.chapter.treasureChest.name=Сундук-сокровищница
-booklet.actuallyadditions.chapter.treasureChest.text.1=<item>Сундук-сокровищница<r> может быть найден.
-booklet.actuallyadditions.chapter.treasureChest.text.2=<item>Сундук-сокровищница<r> - редкое явление <imp> в океане<r>. Они появляются на дне моря, вероятно, оставленные там, миновавшими кораблями, которые сбросили или потеряли какой-то груз. Однако в этих сундуках <imp>есть некоторые ценные предметы<r>, если вам повезет. Однако его разрушение ничего вам не даст, вам просто нужно <imp>щелкнуть по нему ПКМ<r>, чтобы получить награду.
+booklet.actuallyadditions.chapter.treasureChest.text.1=<item>Сундук-сокровищница<r> может быть найден в мире.
+booklet.actuallyadditions.chapter.treasureChest.text.2=<item>Сундук-сокровищница<r> - редкое явление <imp> в океане<r>. Они появляются на дне океанов и морей, вероятно, оставленные там, миновавшими кораблями, которые сбросили или потеряли какой-то груз. Однако в этих сундуках <imp>есть некоторые ценные предметы<r>, если вам повезет. Однако его разрушение ничего вам не даст, вам просто нужно <imp>щелкнуть по нему ПКМ<r>, чтобы получить награду.
 
 booklet.actuallyadditions.chapter.breaker.name=Разрушители и разместители
 booklet.actuallyadditions.chapter.breaker.text.1=<item>Разрушитель<r> ломает блоки напротив него. Он может быть поставлен в любом направлении. <n>При нажатии ПКМ с <item>красным факелом<r> в руках, он поменяет режим или <imp>будет отключен<r> или <imp>будет реагировать на пульсирующие сигналы красного камня<r>.
@@ -933,11 +933,11 @@ booklet.actuallyadditions.chapter.phantomfaces.text.4=<item>Жидкостный
 booklet.actuallyadditions.chapter.phantomfaces.text.5=<item>Энерго-фантом<r> действует точно также как и обычный <item>фантом<r>, но <imp>работает с CF<r>, значит, вы можете его подключать к генераторам и энерго-хранилищам.
 booklet.actuallyadditions.chapter.phantomfaces.text.7=<item>Фантомный ускоритель<r>, как и сказано на первой странице, повышает диапазон <item>фантома<r> путём установки его <imp>на верх фантома<r>. Максимальное количество на одного <item>фантома<r>: <imp>3<r>.
 
-booklet.actuallyadditions.chapter.phantomBreaker.name=Призрачные разрушители и разместители
-booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>Призрачный разрушитель<r> и <item>разместитель<r> работают приблизительно как и <item>фантомы<r>, разве что они <imp>ломают и ставят блоки на расстоянии<r>. Их обычный диапазон: <imp><range> блоков<r>. Подключите их, дабы они ломали или ставили блоки, данный процесс описан в главе <imp>Фантом<r>. Для подключения их к ничему, поставьте блок, положите его и сломайте его опять. <n>При нажатии ПКМ с <item>красным факелом<r> в руках, он поменяет режим или <imp>будет отключен<r> или <imp>будет реагировать на пульсирующие сигналы красного камня<r>.
+booklet.actuallyadditions.chapter.phantomBreaker.name=Фантомные разрушители и разместители
+booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>Фантомный разрушитель<r> и <item>разместитель<r> работают приблизительно как и <item>фантомы<r>, разве что они <imp>ломают и ставят блоки на расстоянии<r>. Их обычный диапазон: <imp><range> блоков<r>. Подключите их, дабы они ломали или ставили блоки, данный процесс описан в главе <imp>Фантом<r>. Для подключения их к ничему, поставьте блок, положите его и сломайте его опять. <n>При нажатии ПКМ с <item>красным факелом<r> в руках, он поменяет режим или <imp>будет отключен<r> или <imp>будет реагировать на пульсирующие сигналы красного камня<r>.
 
 booklet.actuallyadditions.chapter.esd.name=ESD
-booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r> действует также как и  <item>воронка<r>, только с большим функционалом: вы можете выбирать стороны входа и выхода, а также <imp>настраивать<r> количество слотов. <n>Для дополнительной информации, <imp>наведитесь на элементы интерфейса<r>. <n><n>Он определяет <imp>количество слотов<r> инвентаря автоматически, однако <tifisgrin>он не адаптируется под изменения в инвентаре<r>.При подключении инвентаря, количество слотов может быть изменено как в  <item>предметном интерфейсе<r>, вы можете устанавливать большие значения в интерфейсе ESD дабы избежать игнорирования других слотов.
+booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r> действует также как и <item>воронка<r>, только с большим функционалом: вы можете выбирать стороны входа и выхода, а также <imp>настраивать<r> количество слотов. <n>Для дополнительной информации, <imp>наведитесь на элементы интерфейса<r>. <n><n>Он определяет <imp>количество слотов<r> инвентаря автоматически, однако <tifisgrin>он не адаптируется под изменения в инвентаре<r>.При подключении инвентаря, количество слотов может быть изменено как в <item>предметном интерфейсе<r>, вы можете устанавливать большие значения в интерфейсе ESD дабы избежать игнорирования других слотов.
 
 booklet.actuallyadditions.chapter.xpSolidifier.name=Затвердитель опыта
 booklet.actuallyadditions.chapter.xpSolidifier.text.1=<item>Затвердитель опыта<r> берёт опыт игрока и превращает его в <item>затвердевший опыт<r> который позже можно использовать при нажатии <imp>ПКМ<r> (или ПКМ сидя для использования сразу всего стака) дабы вернуть опыт. <n>К тому же, вы можете положить <item>затвердевший опыт<r> в затвердитель, и он будет <imp>собирать весь опыт<r> с земли и превращать его в <item>затвердевший опыт<r>, при условии - что опыт не создан самим затвердителем. <n><item>Затвердевший опыт<r> также иногда падает с различных существ.
@@ -947,14 +947,14 @@ booklet.actuallyadditions.chapter.greenhouseGlass.text.1=<item>Теплично�
 booklet.actuallyadditions.chapter.greenhouseGlass.text.2=<i>Отопительный сезон
 
 booklet.actuallyadditions.chapter.fishingNet.name=Рыболовная сеть
-booklet.actuallyadditions.chapter.fishingNet.text.1=<item>Рыболовная сеть<r> - это блок, который делает рыбалку намного проще! Просто <imp>поместите её над водой<r>, и через некоторое время она автоматически поймает для вас рыбу! Чтобы сохранять улов, просто поместите сундук над <item>рыболовной сетью<r> или позвольте предметам вылететь сверху и собирайте его вручную. <n><n> <i> Терпение и труд - всё перетрут.
+booklet.actuallyadditions.chapter.fishingNet.text.1=<item>Рыболовная сеть<r> - это блок, который делает рыбалку намного проще! Просто <imp>поместите её над водой<r>, и через некоторое время она автоматически поймает для вас рыбу! Чтобы сохранять улов, просто поместите сундук над <item>рыболовной сетью<r> или позвольте предметам вылетать сверху и собирайте его вручную. <n><n> <i> Терпение и труд - всё перетрут.
 
 booklet.actuallyadditions.chapter.feeder.name=Кормчий
-booklet.actuallyadditions.chapter.feeder.text.1=<item>Кормий<r> - хорошая альтернатива ручной животноводческой ферме. Поместите его в центр загона для животных и добавьте немного пшеницы, семян или моркови, в зависимости от животного, которое вы хотите покормить, и просто подождите. Он будет <imp>автоматически кормить животных<r> и, если рядом с ним достаточно накормленных животных, <imp>отключится самостоятельно<r>, чтобы предотвратить нагрузку на ПК (сервер) или перенаселение животных. <n><n> <i> Greenpeace одобряет.
+booklet.actuallyadditions.chapter.feeder.text.1=<item>Кормий<r> - хорошая альтернатива ручной животноводческой ферме. Поместите его в центр загона для животных и добавьте немного пшеницы, семян или моркови, в зависимости от животного, которое вы хотите покормить, и просто подождите. Он будет <imp>автоматически кормить животных<r> и, если рядом с ним достаточно накормленных животных, <imp>отключится самостоятельно<r>, чтобы предотвратить нагрузку на ПК (сервер) или перенаселение животных. <n><n><i>Greenpeace одобряет.
 
 booklet.actuallyadditions.chapter.compost.name=Компост и удобрения
-booklet.actuallyadditions.chapter.compost.text.1=<item>Компост<r> используется для изготовления <item>удобрений<r> из <item>био-каши<r>. <item>Удобрение<r> действует так же, как костная мука, но его можно сделать гораздо проще, просто взяв <item>био-кашу<r>, а затем поместив их в <item>компостер<r> и подождав немного. Когда био-смесь станет удобрением, просто заберите их, снова щелкнув ПКМ. <n> <n> Это, однако, также работает для некоторых других вещей, которые будут объяснены при необходимости.
-booklet.actuallyadditions.chapter.compost.text.3=<item>Био-кашу<r> можно создать из <imp>любого типа еды<r>, сложив любое их количество вместе в сетку рецепта с предметом <item>ножа<r>. Итоговое количество <item>био-каши<r> <imp>зависит от<r> уровня <imp> насыщенности <r> и <imp>исцеления<r> пищи.
+booklet.actuallyadditions.chapter.compost.text.1=<item>Компост<r> используется для изготовления <item>удобрений<r> из <item>био-гумуса<r>. <item>Удобрение<r> действует так же, как костная мука, но его можно сделать гораздо проще, просто взяв <item>био-гумус<r>, а затем поместив их в <item>компостер<r> и подождав немного. Когда био-смесь станет удобрением, просто заберите их, снова щелкнув ПКМ. <n> <n> Это, однако, также работает для некоторых других вещей, которые будут объяснены при необходимости.
+booklet.actuallyadditions.chapter.compost.text.3=<item>Био-гумус<r> можно создать из <imp>любого типа еды<r>, сложив любое их количество вместе в сетку рецепта с предметом <item>ножа<r>. Итоговое количество <item>био-гумуса<r> <imp>зависит от<r> уровня <imp> насыщенности <r> и <imp>исцеления<r> пищи.
 
 booklet.actuallyadditions.chapter.crate.name=Ящики для хранения
 booklet.actuallyadditions.chapter.crate.text.1=<item>Ящики для хранения<r> большие. <imp>Действительно большие<r>. В них могут быть тонны предметов, более чем на 4 сундука. <n> Не это не предел, но их можно <imp>увеличить в размере<r>! Просмотрите следующие страницы, чтобы получить информацию об этом и некоторых других предметах, касающихся ящиков!
@@ -977,7 +977,7 @@ booklet.actuallyadditions.chapter.furnaceDouble.name=Усиленная печь
 booklet.actuallyadditions.chapter.furnaceDouble.text.1=<item>Усиленная печь<r> работает как обычная печь, однако использует <rf> CF/т и плавит <imp>два предмета одновременно<r>.
 
 booklet.actuallyadditions.chapter.lavaFactory.name=Лавовая фабрика
-booklet.actuallyadditions.chapter.lavaFactory.text.1=<item>Лавовая фабрика<r> производит блоки лавы взамен на <imp><rf> CF/блок<r>. <n>Данный блок должен быть окружен 4 корпусами, иначе он не будет производить лаву. <n>Нажатие ПКМ по <item>лавовой фабрике<r> покажет, может ли она производить лаву в текущей установке.
+booklet.actuallyadditions.chapter.lavaFactory.text.1=<item>Лавовая фабрика<r> производит блоки лавы взамен на <imp><rf> CF/блок<r>. <n>Данный блок должен быть окружен 4 корпусами, иначе он не будет производить лаву. <n>Нажатие ПКМ по <item>лавовой фабрике<r> покажет, может ли она производить лаву в текущей установке. <n><n><i>Ора-ора.
 
 booklet.actuallyadditions.chapter.energizer.name=Энерджайзер и энерватор
 booklet.actuallyadditions.chapter.energizer.text.1=<item>Энерджайзер<r> <imp>заряжает предметы, которые хранят CF<r> используя своё энерго-снабжение.
@@ -1042,7 +1042,7 @@ booklet.actuallyadditions.chapter.batteries.text.1=<item>Батарейки<r> -
 
 booklet.actuallyadditions.chapter.leafGen.name=Листовой генератор
 booklet.actuallyadditions.chapter.leafGen.text.1=<item>Листовой генератор<r> производит <imp>CF<r> если поставлен рядом с <item>листвой<r>. <n>Он будет ломать листву, производя <imp><rf> CF/блок<r> в процессе. <n>При нажатии ПКМ на генераторе, вы можете увидеть сколько CF он хранит. <n>Его диапазон составляет: <imp><range><r> блоков.
-booklet.actuallyadditions.chapter.leafGen.text.2=<i>Пахнет травой
+booklet.actuallyadditions.chapter.leafGen.text.2=<i>Пахнет травой.
 
 booklet.actuallyadditions.chapter.longRangeBreaker.name=Разрушитель дальнего действия
 booklet.actuallyadditions.chapter.longRangeBreaker.text.1=<item>Разрушитель дальнего действия<r> работает как и обычный <item>разрушитель<r>, но может ломать <imp>до <range> блоков напротив него<r>. <n>За каждый сломаный блок он потребляет <imp><rf> CF<r>. <n>При нажатии ПКМ с <item>красным факелом<r> в руках, он поменяет режим или <imp>будет отключен<r> или <imp>будет реагировать на пульсирующие сигналы красного камня<r>.
@@ -1056,7 +1056,7 @@ booklet.actuallyadditions.chapter.rangedCollector.text.1=<item>Диапазон�
 
 booklet.actuallyadditions.chapter.hairBalls.name=Шарик меха
 booklet.actuallyadditions.chapter.hairBalls.text.1=<item>Шарик меха<r> может выпасть с <imp>живых<r> кошек. <n>Для большей информации прочтите следующую страницу.
-booklet.actuallyadditions.chapter.hairBalls.text.2=<item>Шарик меха<r> - редкий предмет, выпадающий с <imp>кошек<r> которые были <imp>приручены<r> игроком. <n>Кошки довольно мистические существа ибо <imp>их шерсть оказывается везде<r>. <item>Шарик меха<r> на первый взгляд отратителен, но после снятия волос путём <imp>нажатия ПКМ<r>, они дадут вам <imp>некоторые ценные предметы<r>. <n>Или просто нитки.
+booklet.actuallyadditions.chapter.hairBalls.text.2=<item>Шарик меха<r> - редкий предмет, выпадающий с <imp>кошек<r> которые были <imp>приручены<r> игроком. <n>Кошки довольно мистические существа ибо <imp>их шерсть оказывается везде<r>. <item>Шарик меха<r> на первый взгляд отратителен, но после снятия волос путём <imp>нажатия ПКМ<r>, они дадут вам <imp>некоторые ценные предметы<r>. <n>Или просто нитки. <n><n><n><i>Ф-Фурри?
 
 booklet.actuallyadditions.chapter.laserIntro.name=Вступление: лазерные реле
 booklet.actuallyadditions.chapter.laserIntro.text.1=<item>Лазерные реле<r> бывают <imp>различных типов<r>, однако, все они разделяют один общий функционал. <n><item>Лазерное реле<r> может быть подключено к другому лазерному реле при помощи <item>лазерного ключа<r>. Это делается при помощи <imp>нажатия ПКМ<r> по одному, а потом и другому лазерному реле. Может быть <imp>бесконечное количество<r> соединённых лазерных реле, это называется <item>сетью<r> и <item>системой<r>. Такие сети никогда не имеют стартовой или конечной точки, но вместо этого,
@@ -1118,8 +1118,8 @@ booklet.actuallyadditions.chapter.fireworkBox.text.1=<item>Ящик фейрве
 booklet.actuallyadditions.chapter.fireworkBox.text.2=Малоизвестная информация, но чтобы сделать <item>фейрверки<r>, положите вместе <item>порох<r> и немного <item>бумаги<r>.
 
 booklet.actuallyadditions.chapter.rf.name=CF - кристальный флакс
-booklet.actuallyadditions.chapter.rf.text.1=Раньше, энергия хранилась и измерялась в всемиизвестном краснокаменном флаксе (Redstone Flux), но прогресс не стоит на месте: <item>Кристальный флакс<r> на месте! <n>Данный тип энергии генерируется и используется <imp>всеми<r> <imp>машинами<r> Actually Additions, однако, он <imp>совместим<r> с <item>энергией Тесла (Tesla)<r> и <item>энергией Forge (Forge Units)<r>, значит, машины потребляющие <item>CF<r> и машины, использующие ранее указанные виды энергии, могут соединяться и взаимодействовать <imp>без переходников<r> и не их энергия (потребляемая) <imp>не требует конвертации<r>.
-booklet.actuallyadditions.chapter.rf.text.2=To <imp>transfer<r> <item>Crystal Flux<r>, just place a thing that <imp>generates<r> or transfers it <imp>next to<r> one that <imp>uses<r> or stores it (or any one of the systems mentioned above). You can use an <item>Energizer<r> to <imp>charge up items<r>.
+booklet.actuallyadditions.chapter.rf.text.1=Раньше, энергия хранилась и измерялась в всем известном краснокаменном флаксе (Redstone Flux), но прогресс не стоит на месте: <item>Кристальный флакс<r> на месте! <n>Данный тип энергии генерируется и используется <imp>всеми<r> <imp>машинами<r> Actually Additions, однако, он <imp>совместим<r> с <item>энергией Тесла (Tesla)<r> и <item>энергией Forge (Forge Units)<r>, значит, машины потребляющие <item>CF<r> и машины, использующие ранее указанные виды энергии, могут соединяться и взаимодействовать <imp>без переходников<r> и не их энергия (потребляемая) <imp>не требует конвертации<r>.
+booklet.actuallyadditions.chapter.rf.text.2=Чтобы <imp>транспортировать<r> <item>CF<r>, просто поставьте <imp>генерирующее<r> или транспортирующее его устройство <imp>рядом с<r> тем что <imp>использует<r> или хранит его (или другие прочие системы). Вы можете использовать <item>энерджайзер<r> для <imp>зарядки предметов<r>.
 
 booklet.actuallyadditions.chapter.enderStar.name=Звезда Края
 booklet.actuallyadditions.chapter.enderStar.text.1=<item>Звезда Края<r> может быть получена путём параллельно убийства Иссушителя и похода в край за "Дыханием дракона". Дыхание может быть получено, путём нажатия ПКМ по фиолетовым частицам с пустым бутылём в руках. <n><item>Звезда Края<r> может быть использована <imp>несколько раз в рецептах<r>.
