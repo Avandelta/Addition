@@ -1,8 +1,8 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Ellpeck (Ellpeck)](https://github.com/Ellpeck)
 * [Eric Schneider (xbony2)](https://github.com/xbony2)
@@ -15,8 +15,8 @@
 * [Emily Mansfield (EmilyMansfield)](https://github.com/EmilyMansfield)
 * [canitzp](https://github.com/canitzp)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Konstantin (kellixon)](https://github.com/kellixon)

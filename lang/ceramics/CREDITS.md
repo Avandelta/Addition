@@ -1,14 +1,14 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [KnightMiner](https://github.com/KnightMiner)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Andrey (TimeConqueror)](https://github.com/TimeConqueror)
 * [Bytegm](https://github.com/Bytegm)

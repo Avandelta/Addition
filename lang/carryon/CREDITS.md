@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Tschipp](https://github.com/Tschipp)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [The_BadUser (vanja-san)](https://github.com/vanja-san)

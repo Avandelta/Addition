@@ -1,21 +1,24 @@
-# Interpretatio
+# Interpretatio's Repository
 
-![Перевод](https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-21%25-red?style=for-the-badge)
-![ZenScript](https://img.shields.io/github/languages/top/Avandelta/Interpretatio?label=ZenScript&style=for-the-badge)
+## Translations
 
-## Предисловие
+** **
 
-**Interpretatio** - репозитория-проект по переводу всей игры Minecraft, её дочерних элементов и других различных модификаций. Здесь включены полные переводы различных отделов.
+![American English](https://img.shields.io/badge/English%20(US)-99%25-green?style=for-the-badge)
 
-Также она включает в себя перевод от [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker), что подразумевает собой его некоторое использование ZenScript. Для получения документации, перейдите по [ссылке](https://docs.blamejared.com/).
+![Russian](https://img.shields.io/badge/Russian-21%25-orange?style=for-the-badge)
 
-## Лицензирование
+** **
 
-**Репозитория не претендует на авторство модификаций.**
+## Information
 
-Interpretatio лицензируется в соотвествии с [MIT License](https://github.com/Avandelta/Interpretatio/blob/master/LICENSE)
+**Interpretatio** - one of the special Delta's projects, that translates FML and all other modifications (including game) on russian language. Difference between [Astrum's repository](https://github.com/Falcion/Astrum) and this, that this repository supports only russian language, if you want to help or see other languages translations, please, go on special repository.
 
-```
+## License
+
+Repository is licensed under [MIT License](https://github.com/Avandelta/Interpretatio/blob/master/LICENSE).
+
+```LICENSE
 MIT License
 
 Copyright (c) 2020 Delta
@@ -36,5 +39,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.```
-
+SOFTWARE.
+```

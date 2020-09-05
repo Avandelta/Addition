@@ -1,11 +1,11 @@
-# Заслуги
+## Credits
 
-## Американский английский
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [kreezxil (kreezxil)](https://github.com/kreezxil)
 
-## Русский
+## Russian
 
-**Сделан самостоятельно.**
+**Self-made.**

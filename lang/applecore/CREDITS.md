@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Ryan Liptak (squeek502)](https://github.com/squeek502)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Anton (Adaptivity)](https://github.com/Adaptivity)

@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Skylar Sommers (SkySom)](https://github.com/SkySom)
 
-## Русский
+## Russian
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Foxgreat (Foxgreat)](https://github.com/Foxgreat)

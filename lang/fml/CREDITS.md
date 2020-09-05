@@ -1,16 +1,16 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-* Сделан командой Forge: [сайт Forge](https://files.minecraftforge.net/) и [GitHub Forge](https://github.com/MinecraftForge).
+* **Was made by Forge's team:** [Forge site](https://files.minecraftforge.net/) **and** [GitHub Forge](https://github.com/MinecraftForge)**.**
 
-## Русский:
+## Russian:
 
-Если вы один из русских переводчиков Forge, или знаете таковых - помогите дополнить список ниже:
+If you're one of Russian translators, or know someone like this, please, help us to write their names:
 
-**Отдел Crowdin, который делал перевод на русский:** [Crowdin](https://crowdin.com/project/minecraft-forge/ru)
+**Crowdin Team that translated Forge on Russian:** [Crowdin](https://crowdin.com/project/minecraft-forge/ru)
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Iaroslav Postovalov (CMDR_Tvis)](https://crowdin.com/profile/CMDR_Tvis)
 * [Jerozgen](https://crowdin.com/profile/Jerozgen)

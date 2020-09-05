@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Tyler Hancock (Darkhax)](https://github.com/Darkhax)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Konstantin (kellixon)](https://github.com/kellixon)

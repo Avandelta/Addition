@@ -1,14 +1,14 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Guilherme Chaguri (Guichaguri)](https://github.com/Guichaguri)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Alexey Krainev (xMrVizzy)](https://github.com/xMrVizzy)
 * [Pixelmon.PRO](https://pixelmon.pro)

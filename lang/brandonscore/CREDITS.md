@@ -1,14 +1,14 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [brandon3055](https://github.com/brandon3055)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Andrey (TimeConqueror)](https://github.com/TimeConqueror)
 * [Foxgreat (Foxgreat)](https://github.com/Foxgreat)

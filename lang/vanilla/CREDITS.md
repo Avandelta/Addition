@@ -1,11 +1,11 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-* Сделан командой Mojang: [сайт Mojang](https://www.mojang.com/) и [сайт Minecraft](https://www.minecraft.net/).
+* **Was made by Mojang Team:** [Mojang's site](https://www.mojang.com/) **and** [Minecraft's site](https://www.minecraft.net/)**.**
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [KoshkBench](https://www.blogger.com/profile/14942428871430622744)

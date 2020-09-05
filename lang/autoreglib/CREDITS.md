@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Yoni Segal (yrsegal)](https://github.com/yrsegal)
 
-## Русский:
+## Russian:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Yoni Segal (yrsegal)](https://github.com/yrsegal)

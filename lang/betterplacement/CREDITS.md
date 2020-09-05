@@ -1,11 +1,11 @@
-# Заслуги
+## Credits
 
-## Американский английский:
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [tterrag (tterrag1098)](https://github.com/tterrag1098)
 
-## Русский:
+## Russian:
 
-**Сделан самостоятельно.**
+**Self-made.**

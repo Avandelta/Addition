@@ -1,13 +1,13 @@
-# Заслуги
+## Credits
 
-## Американский английский
+## American English:
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [bdew](https://github.com/bdew)
 
-## Русский
+## Russian
 
-**Сделан при поддержке:**
+**Made with support:**
 
 * [Anton (Adaptivity)](https://github.com/Adaptivity)
