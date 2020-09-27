@@ -1,0 +1,6 @@
+These are the original assets of the CraftPresence modification, which are taken from their repository, 
+we do not claim their authorship, so we ask you to go to the original link (and repository) with
+these assets:
+
+* Link to repository (GitLab): https://gitlab.com/CDAGaming/CraftPresence
+* Link to the MEGA archive: https://mega.nz/file/mURTXKwS#d8cPoNz2V0C558Gdv4HB3qu8L7OG2ALCP5zo3XAYO08
