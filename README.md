@@ -18,7 +18,7 @@ For more information, you can see the special repository of this organization.
 
 ## License
 
-This repository is licensed under the [GNU General Public License v2.0](https://github.com/Avandelta/Analyzer/blob/master/LICENSE).
+This repository is licensed under the [GNU General Public License v2.0](https://github.com/Avandelta/Analyzer/blob/main/LICENSE).
 
 ```LICENSE
                     GNU GENERAL PUBLIC LICENSE
