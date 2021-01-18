@@ -31,3 +31,9 @@ Links to the websites below may be unavailable or archived: in this case, please
 - [New Default+](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
 - [Unity](https://www.curseforge.com/minecraft/texture-packs/unity)
 - [Unity: Dark Edition](https://www.curseforge.com/minecraft/texture-packs/unity-dark-edition)
+
+### Resources
+
+Links to the websites below may be unavailable or archived: in this case, please inform contributors about this situation.
+
+- [Textcraft](https://textcraft.net/)
